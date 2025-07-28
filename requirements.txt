@@ -1,0 +1,7 @@
+**requirements**
+tensorflow
+matplotlib
+opencv-python
+numpy
+pandas
+scikit-learn

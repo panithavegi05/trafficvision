@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.zip
+*.h5
+
+# Environment folders
+env/
+.venv/
+
+# System files
+.DS
